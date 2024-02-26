@@ -1,1 +1,1 @@
-Just a readme. Trying more commits.
+It is a simple Todo app using TypeScript.
